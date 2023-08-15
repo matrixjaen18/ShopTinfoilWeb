@@ -10,6 +10,7 @@ La funcion principal es poder montar tu propia tienda de tinfoil para conexion o
 -Pagina configuracion de tienda donde podrás modificar toda la configuración de la tienda.
 -Pagina de Usuarios donde podrás comprobar todos los usuarios actuales, crear nuevos, eliminar, ver contraseñas y modificar contraseñas.
 -Pagina de colaboradores donde podrás añadir usuarios administradores para que te ayuden a gestionar tu tienda.
+-Gestion de juegos alojados en google drive que se actualiza cada cierto tiempo (por defecto cada 24 horas pero se puede personalizar).
 
 # Configuraciones disponibles de la tienda:
 
